@@ -1,0 +1,682 @@
+# Index
+
+- Abad de Santillán, Diego, 60
+- Agrarian economy in Spain, 27
+- Agrarian reform, 57
+- Alcoy insurrection, 32
+- Alfonso XIII, King, 51
+- Alhucemas, military landing at, 49
+- Algeciras conference, 38
+- America, emigration to, 27
+- Anarchism
+  - Definition and understanding, 17
+  - Core ideas, 18-19
+  - Opposition to capitalism, 19-20, 31
+  - Rejection of the State, 20
+  - Critique of patriarchal society, 20
+  - Anti-militarism, 20-21
+  - Defense of individual freedom, 21
+  - Schools or currents within libertarian thought, 21-22
+  - In Spain, 23-26, 34-35
+  - In Andalusia, 34-35
+  - In Catalonia, 34
+  - In Madrid, 34
+  - In Malaga, 35
+  - In Seville, 35
+  - In Valencia, 34
+  - Relationship with republicanism, 38, 55
+  - Anticlericalism in, 39
+  - Opposition to all forms of government, 55
+- Anarcho-collectivism, 22
+- Anarcho-communism, 22
+- Anarcho-individualism, 22
+- Anarcho-syndicalism, 22, 43, 57
+- Andalusia
+  - Anarchism in, 34-35
+  - Emigration from, 27
+  - Insurrections in, 59
+- Anselmo Lorenz, 32
+- Argentina, emigration to, 27
+- Armed forces, maintenance costs of, 28
+- Aragón, insurrections in, 59
+- Ascaso, Franciesco, 50, 59
+- Asturias
+  - Emigration from, 27
+  - Revolt in, 53
+- Autonomies, Catalan, Basque, and Galician, 54
+- Bakunin, Mikhail, 17, 21, 31
+- Barcelona
+  - Life expectancy in, 27
+  - Population growth in, 28
+  - Semana Trágica in, 38
+  - Growth of, 51
+- Basque Country
+  - Banking in, 28
+  - Industry in, 28
+- Berenguer, General, interregnum of, 50
+- Bienio negro [black biennium], 53
+- Bienio reformista [reformist biennium], 53
+- Bolsheviks, 45, 47
+- Brazil, emigration to, 27
+- Brennan, Gerald, 25
+- Cabet, influence in Catalonia, 29, 40
+- Canadiense, strike at, 44
+- Canalejas, assassination of, 36
+- Cánovas de Castillo, assassination of, 36
+- Capitalism, critique of, 19-20, 31
+- Carlist war, third, 28
+- Casas Viejas, events in, 58
+- Castile and León, emigration from, 27
+- Catalonia
+  - Anarchism in, 34
+  - Banking in, 28
+  - Emigration from, 27
+  - Industry in, 28
+  - Insurrections in, 59
+- Catholic Church
+  - Influence in Spain, 27
+  - Collaboration with government institutions, 39
+- Charter of Amiens, 43
+- Chinese peasants, reference to, 17
+- Civil disobedience, 37
+- Collectivization, 35
+- Colonial adventure, end of, 28
+- Confederación Española de Derechas Autónomas (CEDA), 53
+- Confederación Nacional de Trabajo (CNT)
+  - Founding of, 43
+  - Growth of, 43
+  - Programme of, 43
+  - Relationship with UGT, 44
+  - Membership in Third International, 45
+  - Relationship with PCE, 45
+  - Support for attacks, 47
+  - Involvement in robberies, 50
+  - Return to legality, 50
+  - Role in elections, 53
+  - Relationship with FAI, 60
+  - 18, 22, 37
+- Consejo de la Escuela Nueva Unificada (CENU), 42
+- Costa, Joaquín, 26
+- Crisis of 1929, effects of, 51
+- Cuba, emigration to, 27
+- Dato, assassination of, 36
+- Decentralization, demands for, 54
+- Democracy, direct, 18
+- Díaz del Moral, 40
+- Direct action, 18, 35
+- Durruti, Buenaventura, 50, 59
+- Ecclesiastical property, confiscation of, 27
+- Education
+  - Emancipatory pedagogy in Spain, 40
+  - Debates about, in the libertarian world, 42
+  - Reduction in illiteracy, 57
+- Elections
+  - 1931, 51, 53
+  - 1933, 53, 57
+  - 1936, 53
+- Emancipatory transformation, 29
+- Emigration from Spain, 27
+- Escuela Moderna
+  - Founding of, 38
+  - Criticism of, 40
+  - Influence of, 42
+- Extremadura, insurrections in, 59
+- Fanelli, Giuseppe, 31
+- Federación Anarquista Ibérica (FAI)
+  - Establishment of, 59
+  - Role in insurrections, 59
+  - Changes in, 60
+  - Nature of, 60
+- Federación de Trabajadores de la Región Española (FTRE), 32
+- Federación Regional Española (FRE), 31
+- Federalism, 18
+- Ferrer i Guàrdia, Francesc
+  - Execution of, 38
+  - Founding of Escuela Moderna, 40
+- First International, 45
+- First World War, impact on Spain, 43, 45
+- Flórez Estrada, economist, 19
+- Fourier, influence in Andalusia and Madrid, 29, 40
+- France, comparison with Spain, 23
+- Freethinkers, 38
+- Galán, Captain, 51
+- Galicia, emigration from, 27
+- García Hernández, Captain, 51
+- García Oliver, Juan, 50, 59, 60
+- General strike, 43, 50
+- General Union of Workers (UGT), 33, 44
+- Generation of 1898, 28
+- Gil Robles, José María, 53
+- Guardia Civil, 27, 58
+- Guardia de asalto [assault guard], 58
+- Hobsbawm, Eric, 24-25
+- Huesca, uprising in Jaca, 51
+- Illiteracy in Spain, 27
+- Illiteracy, reduction in, 57
+- Industrial revolution, luddite practices against, 29
+- Individual freedom, defense of, 21
+- Internal migration, 51
+- International Workingmen’s Association (IWA), 31
+- Italy, comparison with Spain, 23
+- Jaca, uprising in, 51
+- Jerez incidents, 35
+- Jurados mixtos [‘mixed juries’], 57
+- King Alfonso XIII, 51
+- Kropotkin, Peter, 17, 19, 21
+- La Rioja, insurrections in, 59
+- Labour movement, 29, 32
+- Labour, jurados mixtos in, 57
+- Landless peasants, 27
+- La Semana Trágica de Barcelona, 20
+- Law for the Defence of the Republic, 57
+- Layret, Francesc, assassination of, 47
+- Lerroux, Alejandro, 53
+- Ley de Defensa de la República [Law for the Defence of the Republic], 57
+- Libertarians
+  - Relationship with republicans, 38
+  - Anticlericalism in, 39
+  - Relationship with Bolshevism, 45
+  - Involvement in robberies and murder, 47
+- Life expectancy in Spain, 27
+- Libertarian thought, 17-22
+- Luddite practices, 29
+- Madrid
+  - Anarchism in, 34
+  - Population growth in, 28
+  - Growth of, 51
+- Malaga, anarchism in, 35
+- Malatesta, Errico, 17
+- Mano Negra incidents, 35
+- Manuel Azaña, 53
+- Marx, Karl, reference to, 19, 31
+- Mateo Morral, 36
+- Medieval Europe, reference to, 17
+- Military coup of 1936, 51, 57
+- Military coups, 28
+- Mining in Spain, 28
+- Modernization efforts in Spain, 27
+- Montseny, Federica, 60
+- Moroccan war, 51
+- Morocco, Spanish protectorate in, 38
+- Mujeres Libres (Free Women) movement, 20
+- Mutual aid, 19
+- Nationalism, Catalan, Galician, and Basque, 28
+- Native peoples in America, Africa, and Asia, reference to, 17
+- Pacifism, Tolstoyan, 37
+- Paris Commune, 31
+- Partido Comunista de España (PCE), 45
+- Partido Radical [Radical Party], 53
+- Peasants, landless, 27
+- Pedagogy, emancipatory, in Spain, 40
+- Pestaña, Ángel, 45
+- Pi i Margall, 29
+- Pistolerismo, 47
+- Political farce, 28
+- Popular Front, 53
+- Primitive rebels, 34
+- Prisoners, liberation of, 60
+- Propaganda of the deed, 37
+- Proletariat, 31
+- Primo de Rivera, General, dictatorship of, 49
+- Proudhon, Pierre-Joseph, 17, 19, 21
+- Proudhonian federalism and mutual aid, 29
+- PSOE, 57
+- Rationalist schools, 42
+- Reformist biennium, 53
+- Repression, 31, 35, 36, 57, 58
+- Republican-socialist authorities, 53
+- Republicans, 38, 51, 55
+- Revolutionary gymnastics, 59
+- Revolutionary transformation, 59
+- Robbery and looting, 35
+- Russian Revolution, 45
+- Saint-Simon, influence in Catalonia, 29
+- Salvochea, Fermín, 32
+- Sanjurjo, coup d’état attempt by, 53
+- Second half of the 19th century, Spain in, 27
+- Second Republic, 51
+- Second Spanish republic, 51
+- Seguí, Salvador, assassination of, 47
+- Self-management, 18
+- Semana Trágica, 38
+- Seville, anarchism in, 35
+- Social conflict, 31
+- Social revolution, 35
+- Socialist Party, Spanish, 32
+- Solidaridad Obrera, 43
+- Spain
+  - Anarchism in, 23-26, 34-35
+  - Comparison with other parts of Europe, 23
+  - Strength of anarchism in, 23-26
+  - Agrarian economy in, 27
+  - Catholic Church in, 27
+  - Colonial adventure, end of, 28
+  - Emigration from, 27
+  - Illiteracy in, 27
+  - Industrial revolution in, 29
+  - Life expectancy in, 27
+  - Modernization efforts in, 27
+  - Second half of the 19th century, 27
+- Spanish Regional Federation (FRE), 31
+- Spanish Socialist Workers’ Party (PSOE), 32
+- State power, seizure of, 31
+- State, rejection of, 20
+- Strikes, 29, 35, 43, 44
+- Syndicalism, 50, 60
+- Technology, contrasting opinions on, 19
+- Terrorism, anarchist, 36
+- Third International, 45
+- Trade unions, 29, 32
+- Tragic Week, 38
+- Trentismo [thirtyism], 59
+- Unemployment, 51, 54
+- Unión General de Trabajadores (UGT), 44
+- Utopian socialists, 29
+- Valencia, anarchism in, 34
+- Valencia, insurrections in, 59
+- Voting rights of women, 53
+- Workers, disenchantment of, 54
+- Workers' Solidarity, 43
+- Workers’ societies, 29
+- Work, value and significance of, 18
+- Zaragoza
+  - Congress of, 20
+  - Exhibition in, 37
+# Index
+
+- Abolition of private ownership of land and water, 73
+- Agrarian Collectives, 102-106
+- Alcohol, rejection of, 75
+- Albacete, violent incident in Yeste, 87
+- Alicante, fall to Franco, 96
+- Alianza Orbera [Workers’ Alliance], 83
+- Alternative Society, 73-75
+- Andalusia, rebel offensive in, 96
+- Anarchism
+  - And the national question, 80-82
+  - And the written word, 77-79
+  - In Catalonia, 81
+  - In the Spanish Civil War, 90-95
+- Anarchist songbooks, 79
+- Anti-clericalism, 75
+- Anti-colonial policies, 82
+- Asturian commune, 85
+- Asturian revolution of 1934, 86, 87, 83
+- Athletics, 73
+- Athenaeums, cultural centres, 70-72, 79
+- Azaña, role in the government of the Popular Front, 86
+- Bakunin, Mikhail, 78
+- Barcelona
+  - Defence committees of the CNT-FAI, 90
+  - Demolition of buildings in, 74
+  - Dockyards, murder of Francisco Ascaso, 90
+  - Fall to Franco, 96
+  - Neighbourhood committees in, 70
+  - Rent strike in, 1932, 71
+- Basque Country, sympathetic movements in, 85
+- Belchite, republican counter-offensive in, 96
+- Birth control methods, 74
+- Bookchin, Murray, 90
+- Boxing, 73
+- Brunete, republican counter-offensive in, 96
+- Cabaret music, 79
+- Cartagena, last redoubt of the republic, 96
+- Catalonia
+  - Independence of, 81
+  - Language and culture of, 81
+  - Separation from republican territory, 96
+- CEDA, incorporation into republican government, 83
+- Children, novel first names for, 75
+- Cinema, commitment to, 79
+- Collectivization of agriculture, 102-106
+- Comaposada, Mercedes, 99
+- Comité Central de Milicias [Central Committee of Militias], 91
+- Companys, arrest of, 85
+- Confederación Nacional del Trabajo (CNT)
+  - Assembly-based organization, 65
+  - Base and 'cupola' structure, 66-67
+  - In the Asturian revolt, 85
+  - In the elections of February 1936, 86
+  - In the military coup of July 1936, 88
+  - In the Spanish Civil War, 90-95
+  - Involvement in neighbourhood committees, 70
+  - Membership, 68-69
+  - Role in everyday life, 70
+  - Unemployed, integration into, 71
+  - Workplace organization, 70
+- Condor Legion, German, bombing of Guernica, 96
+- Consejo Federal de la Región Española [Federal Council of the Spanish Region], 80
+- Cupola, influential militants, 66-67
+- Cycling, 73
+- Darwinism, defence of, 73
+- Direct action, principles of, 70
+- Disease, prevention of, 74
+- Durruti, Buenaventura, 67
+- Elections of February 1936, 86
+- Enzensberger, Hans Magnus, 90
+- Ebro, battle of, 96
+- Esperanto, study of, 75
+- Excesses and violence during the civil war, 97-98
+- FAI, 73
+- Falange Española [Spanish Phalanx], 87, 94
+- Faístas, 63-64
+  - Conflict with Trentistas, 63-64
+- Federalism, principle of, 65
+- Félix Martí Ibáñez, 74
+- Franco, General
+  - Offensive in Guadalajara, 96
+  - Occupation of Malaga, 96
+  - Victory and occupation of Barcelona, 96
+  - Victory and occupation of Madrid, 96
+  - In the Spanish Civil War, 85, 88, 94
+- Francoist army, 94-95, 96
+- Francoist order, 96
+- Free love, 73-74
+- Free relationships, 73-74
+- Freedom of women, 74
+- Guardia Civil, 87
+- Guadalajara, Francoist offensive in, 96
+- Guernica, bombing of, 96
+- Gymnastics, 73
+- Hedonism, conflict with ethic of work, 64
+- Hiking, 73
+- Homosexuality, reservations about, 74
+- Horacio M. Prieto, 74
+- Hygiene, improvements in, 74
+- Ibáñez, Dolores, 65
+- Independence and sovereignty of political units, 81
+- Izquierda Republicana [Republican Left], 65
+- José Antonio Primo de Rivera, execution of, 94
+- José Calvo Sotelo, assassination of, 87
+- José de Castillo, assassination of, 87
+- Kropotkin, Peter, 78
+- La Revista Blanca [The White Review], 78
+- La urbanística del porvenir [The urban planning of the future], 74
+- Libertarian calendar, 75
+- Libertarian communism, 85, 91
+- Libertarian municipalism, 80
+- López, Juan, 63
+- Madrid
+  - Demolition of buildings in, 74
+  - In the military coup of July 1936, 88
+  - Fall to Franco, 96
+- Malaga, occupation by Franco, 96
+- Masturbation, condemnation of, 74
+- Militants, influential, 66-67
+- Military coup of July 1936, 88, 91
+- Mondragón, violent clashes in, 85
+- Mujeres Libres [Free Women] movement, 82, 99-101
+- Naturism, 73
+- Neighbourhood committees, 70-72
+- Neo-Malthusianism, 73
+- New urbanism, proposals for, 73-74
+- Nudism, 73
+- Orwell, George, 102
+- Partido Sindicalista [Syndicalist Party], 63
+- Peiró, Joan, 63
+- Pestaña, Ángel, 63, 68
+- Poch, Amparo, 99
+- Popular Front, 86
+- Popular Olympiad in Barcelona, 82
+- Prieto, Indalecio, 65
+- Proletarian culture, 70
+- Professional sports, criticism of, 73
+- PSOE, 65
+- PCE, 65
+- Real estate speculation, rejection of, 74
+- Republican army, unsuccessful counter-offensives, 96
+- Republican government, 86, 91
+- Republican Left, 65
+- Repression after the Asturian revolt, 85
+- Revolutionary dictatorship, 91
+- Revolutionary gymnastics, 85
+- Rodríguez, Melchor, 98
+- Sánchez Saornil, Lucía, 99
+- Sanjuro, General, death of, 94
+- Sex education, 74
+- Sexuality, contradictions in, 74
+- Social revolution, 90, 91, 93, 102-106
+- Social theatre, commitment to, 79
+- Spanish Civil War
+  - Excesses and violence during, 97-98
+  - Mujeres Libres during, 99-101
+  - General coverage, 90-95, 96
+- Sports activities, 73
+- Sindicatos de oposición [syndicates of the opposition], 63
+- Swimming, 73
+- Tenant strike, advocacy for, 74
+- Teruel, republican counter-offensive in, 96
+- Trentistas, 63-64
+  - Conflict with Faístas, 63-64
+- UGT, 65, 91
+- Unions, construction of homes by, 74
+- Urban working class, 70-72
+- Valencia, fall to Franco, 96
+- Vegetarianism, 73
+- Viñaros, Franco's army reaches, 96
+- Work, ethic of, conflict with hedonism, 64
+- Workers’ choirs, 79
+- Workers’ struggles, 78
+- Working conditions, struggle for better, 66
+- Written word, love of, 77-79
+- Zaragoza
+  - CNT congress in May, 87
+  - Congress of, 63
+  - In the military coup of July 1936, 88
+
+# Index
+
+- 15-M (movimiento de los indignados), 143
+- Agrarian Collectives, 102-106, 107-108, 112
+- Alicante, fall to Franco, 96
+- Anarchism
+  - Contemporary relevance of, 144-146
+  - Presence in modern Spain, 142-143
+- Anarchist book clubs, 142
+- Andalusia, rebel offensive in, 96
+- Anarcho-feminism, 143
+- Anti-establishment Church, 129
+- Aragón, Council of, dissolution by Negrín's government, 107
+- Armed forces, role in Spanish unity, 137
+- Athenaeums, 142
+- Autonomous spaces, relationship with workplace organizations, 143
+- Autarkic character of Franco regime, 129
+- Banks, interests of, 140
+- Barcelona
+  - Fall to Franco, 96
+  - Events of May 1937, 121-122
+  - Nightclub fire (1978), 135
+- Basque armed organization, Euskadi Ta Askatasuna (ETA), 129
+- Basque Country, population transfer to, 130
+- Belchite, republican counter-offensive in, 96
+- Berneri, Camillo, 124
+- Blanco, Luis Carrero, assassination of, 129
+- Bookchin, Murray, 113
+- Brunete, republican counter-offensive in, 96
+- Buenaventura Durruti, 123
+- Carballeira, Raúl, 132
+- Cartagena, last redoubt of the republic, 96
+- Catalan and Spanish governments, CNT participation in, 118-119
+- Catalan nationalism, aggression against, 129
+- Catalonia
+  - Separation from republican territory, 96
+  - Collectivization of industry in, 109-112
+- CCOO (Comisiones Obreras), emergence of, 132
+- Cenetistas, exile and resistance of, 131
+- CGT (Confederación General del Trabajo), 142
+- Cipriano Mera, 124
+- Civil War, Spanish, 97-98, 99-101, 118-127
+- Cohesion funds, 140
+- Collectivization of agriculture, 102-106, 107-108
+- Collectivization of industry, 109-112
+- Comaposada, Mercedes, 99
+- Companies, brink of closure, 143
+- Comisiones Obreras (CCOO), emergence of, 132
+- Condor Legion, German, bombing of Guernica, 96
+- Consejistas, emergence of, 136
+- Consejo Nacional de Defensa [National Defence Council], 127
+- Contemporary relevance of anarchism, 144-146
+- CNT (Confederación Nacional del Trabajo)
+  - Collaboration with republican institutions, 118-119, 123
+  - Criticism of, 123
+  - Growth after Franco's death, 135
+  - Legalization of (1977), 135
+  - Opposition to Pactos de la Moncloa, 135
+  - Participation in Catalan and Spanish governments, 118-119
+  - Role in events of May 1937, 121-122
+  - Weakening in workplace organizing, 132
+- Counterculture, 143
+- Counter-cultural practices, influence on younger CNT members, 136
+- Debt crisis, 140
+- Degrowth, 145
+- Delgado, Joaquín, 132
+- Democratic confederalism, 145
+- División Azul [Blue Division], 128
+- Durruti Column, 123
+- Economic growth under Franco regime, 130
+- Economic problems under Franco regime, 129
+- Ecology and growth, 113-115
+- Ecovillages, 142
+- Emma Goldman, 119
+- Environmental aggressions, 140
+- Esquerra Republicana de Catalunya [ERC; Republican Left of Catalonia], 121
+- ETA (Euskadi Ta Askatasuna), 129
+- Events of May 1937 in Barcelona, 121-122
+- Excesses and violence during the civil war, 97-98
+- Exile and resistance to Francoism, 131
+- Facerías, Josep Lluís, 132
+- FAI (Federación Anarquista Ibérica), 118, 123
+- Feminism, 143
+- Franco, General
+  - Offensive in Guadalajara, 96
+  - Occupation of Malaga, 96
+  - Victory and occupation of Barcelona, 96
+  - Victory and occupation of Madrid, 96
+  - Death of, 135
+- Franco regime
+  - Economic problems under, 129
+  - Features of, 129
+  - Softening over time, 129
+  - Autarkic character of, 129
+- Francoism
+  - Crimes of, 137
+  - Harsh treatment of refugees, 131
+  - Image of Franco under, 129
+  - Initial years of, 131
+  - Repressive mechanisms of, 130
+- Francoist army, 96, 108
+- Francoist order, 96
+- Friends of Durruti (Los Amigos de Durruti), 123-124
+- Gag rule (ley mordaza), 141
+- Galician nationalism, aggression against, 129
+- García Oliver, Juan, 118
+- Goldman, Emma, 119
+- Granado, Francisco, 132
+- Guadalajara, Francoist offensive in, 96
+- Guerrilla movements, 132
+- Guernica, bombing of, 96
+- Humanitarian interventionism, 140
+- Iberian Liberation Movement (Movimiento Ibérico de Liberación), 132
+- Industrial recovery under Franco regime, 130
+- Inequality, rise in, 140
+- Integrated cooperatives, 142
+- Internationalist Revolutionary Action Groups (Grupos de Acción Revolucionaria Internacionalista), 132
+- Juventudes Libertarias [Libertarian Youth], 122
+- Labour conditions, reappearance of, 145
+- Largo Caballero, Francisco, 118
+- Latin America, migratory flows to, 130
+- Libertarian Party, proposed creation of, 132
+- Libertarian practices, 142-146
+- Libertarian world
+  - Conditions in last years of Franco regime, 133
+  - Presence in Spain, 142
+- Líster, Enrique, 108
+- López, Juan, 118
+- Madrid, fall to Franco, 96
+- Maquis, guerrillas, 132
+- Malaga, occupation by Franco, 96
+- Manipulated referendum on NATO, 140
+- Marné, Alfred, 114
+- May 1937, events in Barcelona, 121-122
+- May 15 movement (movimento del 15 de mayo), 141
+- Media apparatus, role in NATO referendum, 140
+- Middle class, emergence of, 136
+- Militarization, 121, 123-124
+- MIL (Movimiento Ibérico de Liberación), 132
+- Moncloa pacts (Pactos de la Moncloa), 135
+- Montseny, Federica, 118
+- Moroccan army, occupation by, 129
+- Movimento del 15 de mayo (May 15 movement), 141
+- Movimento Libertario de España [Libertarian Movement of Spain], 122
+- Mujeres Libres [Free Women], 99-101
+- National Catholicism (nacional-catolicismo), 129
+- National Defence Council (Consejo Nacional de Defensa), 127
+- Nationalism of the periphery, aggression against, 129
+- NATO (North Atlantic Treaty Organization), manipulated referendum on, 140
+- Negrín, government led by, 122
+- Negrín, republican government of, 107
+- North American dictates, Spain's submission to, 140
+- Opus Dei, ascendancy of, 129
+- Orwell, George, 102
+- Pacifism, 143
+- Pactos de la Moncloa, 135
+- Partido Comunista de España [PCE; Communist Party of Spain], 125-127
+- Partido Popular (PP), 137
+- Partito Obrero de Unificación Marxista [POUM; Workers’ Party of Marxist Unification], 121
+- Peiró, Joan, 118
+- Police infiltrations, 141
+- Political transition (transición política), 137
+- Population
+  - Situated below the poverty line, 140
+  - Transfer under Franco regime, 130
+- Poch, Amparo, 99
+- Poverty line, increase in population situated below, 140
+- Propaganda of the deed, 145
+- PSOE (Partido Socialista Obrero Español)
+  - Change of course on NATO, 140
+  - Presence in modern Spain, 137
+- PSUC (Partit Socialista Unificat de Catalunya), 121-122, 126
+- Puig Antich, Salvador, 132
+- Reappearance of CNT after Franco's death, 135
+- Repression, presence in the regime of the transition, 141
+- Republican army, unsuccessful counter-offensives, 96
+- Republican government, participation of anarchists in, 116
+- Republican government, CNT participation in, 118-119
+- Resistance to Francoism, 131
+- Richards, Vernon, 119
+- Rodríguez, Melchor, 98
+- Romanones, Count of, 107
+- Sabaté, Quico, 132
+- Sánchez Saornil, Lucía, 99
+- Scala events, 135
+- Self-managed autonomous spaces, 145
+- Self-managed cooperatives, 142
+- Self-managed public education, 145
+- Self-managed social centres, 142
+- Social revolution, 102-106
+- Solidaridad Obrera (Workers’ Solidarity), 142
+- Spanish Civil War, 118-127
+- Spanish democracy, critique of, 138
+- Spanish miracle, disintegration of, 139
+- Spanish pseudo-democracy, 140
+- State of the autonomous communities, 137
+- Syndicalist forces, 142
+- Telefónica building, attempt to occupy, 121
+- Teruel, republican counter-offensive in, 96
+- Torture, practice of, 141
+- Trade unions, proscription of under Franco regime, 129
+- Transition, concept of, 137
+- United States, pressure on Spain, 140
+- Valencia, fall to Franco, 96
+- Vila Capdevila, Ramón 'Caraquemada', 132
+- Vernon Richards, 119
+- Viñaros, Franco's army reaches, 96
+- Welfare state, critique of, 139
+- Western powers, pressure on Spain, 140
+- Women, marginalization of under Franco regime, 129
+- Workers' rights, denial of under Franco regime, 130
+- Workers' self-management, 113-115
+- Workers’ control of the means of production, 119
+- Workplace organization, 145
+- Workplace organizations, relationship with autonomous spaces, 143
+- Workplace organizing, weakening of CNT in, 132
